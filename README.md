@@ -1,6 +1,3 @@
-# RENTALX
+# Chat-help
 
-- repository
-
-  Camada/class encarregado de fazer toda manipulação da aplicação.
-  - EX: fazer manipulação do banco de dados (CRUD),
+> CODE FROM NLW5
